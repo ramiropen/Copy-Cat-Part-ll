@@ -1,0 +1,105 @@
+
+body {
+    background-color: #AEB6BF;
+}
+
+navbar {
+    font-family: Verdana,Geneva,sans-serif; 
+}
+
+.navbar-brand {
+    margin-right: 0rem;
+}
+
+.me-2 {
+    margin-right: 12rem!important;
+    width: 35rem;
+}
+
+.btn {
+    margin-right: 1rem;
+    border-radius: 40%;
+}
+
+h2 {
+    font-family: Verdana,Geneva,sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 1em;
+    margin-left: 2em;
+}
+
+.ulContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.container {
+    margin-right: 217px;
+}
+
+.row1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 895px;
+    height: 1240px;
+    background-color: #AEB6BF;
+    justify-content: space-between;
+}
+
+.updates {
+    display: flex;
+    width: 600px;
+    height: 165px;
+    border-radius: 0.2rem;
+    background-color: #85C1E9;
+}
+.update {
+    display: flex;
+    position: relative;
+    bottom: 1035px;
+    width: 600px;
+    height: 165px;
+    border-radius: 0.2rem;
+}
+
+.everywhere {
+    display: flex;
+    margin-left: 0.5rem;
+    height: 400px;
+    width: 260px;
+    border-radius: 0.2rem;
+    background-color: #85C1E9;
+}
+
+.science {
+    display: flex;
+    position: relative;
+    bottom: 310px;
+    width: 600px;
+    height: 50px;
+    border-radius: 0.2rem;
+    background-color: #85C1E9;
+}
+
+.chev {
+    background-color: #85C1E9;
+    display: flex;
+    position: relative;
+    bottom: 385px;
+    width: 600px;
+    height: 100px;
+    border-radius: 0.2rem;
+}
+
+.chevy {
+    background-color: #85C1E9;
+    display: flex;
+    position: relative;
+    bottom: 460px;
+    width: 600px;
+    height: 325px;
+    border-radius: 0.2rem; 
+}
